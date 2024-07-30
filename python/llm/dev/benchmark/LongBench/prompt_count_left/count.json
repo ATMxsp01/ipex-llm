@@ -1,0 +1,77 @@
+{
+    "multi_news": {
+        "all": 158,
+        "input": 200,
+        "context": 158
+    },
+    "qasper": {
+        "all": 66,
+        "input": 200,
+        "context": 66
+    },
+    "hotpotqa": {
+        "all": 5,
+        "input": 200,
+        "context": 5
+    },
+    "trec": {
+        "all": 36,
+        "input": 200,
+        "context": 37
+    },
+    "passage_count": {
+        "all": 0,
+        "input": 200,
+        "context": 0
+    },
+    "lcc": {
+        "all": 349,
+        "input": 500,
+        "context": 349
+    },
+    "narrativeqa": {
+        "all": 0,
+        "input": 200,
+        "context": 0
+    },
+    "multifieldqa_en": {
+        "all": 33,
+        "input": 150,
+        "context": 33
+    },
+    "2wikimqa": {
+        "all": 17,
+        "input": 200,
+        "context": 17
+    },
+    "musique": {
+        "all": 0,
+        "input": 200,
+        "context": 0
+    },
+    "gov_report": {
+        "all": 15,
+        "input": 200,
+        "context": 15
+    },
+    "qmsum": {
+        "all": 1,
+        "input": 200,
+        "context": 1
+    },
+    "triviaqa": {
+        "all": 22,
+        "input": 200,
+        "context": 27
+    },
+    "samsum": {
+        "all": 29,
+        "input": 200,
+        "context": 29
+    },
+    "repobench-p": {
+        "all": 7,
+        "input": 497,
+        "context": 45
+    }
+}

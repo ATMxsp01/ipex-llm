@@ -77,10 +77,13 @@ def scorer(dataset, predictions, answers, all_classes):
 if __name__ == '__main__':
     args = parse_args()
     scores = dict()
+    model2maxlen = json.load(open("config/model2maxlen.json", "r"))
+    max_length = model2maxlen[args.model]
+
     if args.e:
-        path = f"pred_e_4096/{args.model}/"
+        path = f"pred_e_{max_length}/{args.model}/"
     else:
-        path = f"pred_e_4096/{args.model}/"
+        path = f"pred_{max_length}/{args.model}/"
     all_files = os.listdir(path)
     print("Evaluating on:", all_files)
     for filename in all_files:
