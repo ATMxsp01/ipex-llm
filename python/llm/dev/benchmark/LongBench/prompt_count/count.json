@@ -1,0 +1,67 @@
+{
+    "multi_news": {
+        "all": 92,
+        "input": 294,
+        "context": 92
+    },
+    "qasper": {
+        "all": 44,
+        "input": 224,
+        "context": 44
+    },
+    "hotpotqa": {
+        "all": 23,
+        "input": 300,
+        "context": 23
+    },
+    "trec": {
+        "all": 61,
+        "input": 300,
+        "context": 61
+    },
+    "passage_count": {
+        "all": 24,
+        "input": 300,
+        "context": 24
+    },
+    "lcc": {
+        "all": 71,
+        "input": 300,
+        "context": 71
+    },
+    "multifieldqa_en": {
+        "all": 33,
+        "input": 150,
+        "context": 33
+    },
+    "2wikimqa": {
+        "all": 15,
+        "input": 300,
+        "context": 15
+    },
+    "gov_report": {
+        "all": 64,
+        "input": 300,
+        "context": 64
+    },
+    "triviaqa": {
+        "all": 37,
+        "input": 300,
+        "context": 55
+    },
+    "samsum": {
+        "all": 44,
+        "input": 300,
+        "context": 46
+    },
+    "passage_retrieval_en": {
+        "all": 5,
+        "input": 300,
+        "context": 8
+    },
+    "repobench-p": {
+        "all": 3,
+        "input": 297,
+        "context": 19
+    }
+}
